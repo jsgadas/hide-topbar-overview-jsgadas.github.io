@@ -1,0 +1,7 @@
+{
+  "uuid": "hide-topbar-overview@jsgadas.github.io",
+  "name": "Hide Top Bar in Overview",
+  "description": "Hides the top bar when entering the Overview and shows it again on the desktop",
+  "shell-version": ["48"],
+  "version": 1
+}
